@@ -26,8 +26,8 @@ Hi there! I'm Harshitha Yasiru 👋<br>
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=tokyonight&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=yassa-life&theme=tokyonight&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=yassa-life&theme=tokyonight)
 
 ---
 
