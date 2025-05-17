@@ -8,9 +8,8 @@ Hi there! I'm Harshitha Yasiru 👋<br>
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-profile)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://instagram.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=github&style=for-the-badge)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yassa.life)  
+📧 Gmail: harshithayasiru34@gmail.com
 
 ---
 
