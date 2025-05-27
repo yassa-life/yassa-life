@@ -32,7 +32,6 @@ Hi there! I'm Harshitha Yasiru 👋<br>
 ---
 
 ## 🧠 Currently Learning:
-- Advanced backend integration with Node.js
 - Deep Learning and AI tools
 - Clean UI design patterns
 
