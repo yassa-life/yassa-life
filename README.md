@@ -32,7 +32,7 @@ Hi there! I'm Harshitha Yasiru 👋<br>
 
 ## 🧠 Currently Learning:
 - Deep Learning and AI tools
-- Clean UI design patterns
+- REACT JS
 
 ---
 
