@@ -67,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
+</br>
 
 ## 🔗 Connect with Me
 <p align="center">
