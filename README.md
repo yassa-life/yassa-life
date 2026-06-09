@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Harshitha Yasiru 👋<br>
-🎓 Software Engineering Undergraduate<br>
+🎓 Cyber Security Undergraduate<br>
 💻 Passionate about coding, designing UIs, and building innovative digital solutions<br>
 🌌 Space enthusiast | 🧠 Always learning<br>
 🤝 Let's collaborate on cool projects!
