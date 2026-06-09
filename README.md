@@ -49,6 +49,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+
   <a href="https://www.linkedin.com/in/harshitha-yasiru/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,7 +58,8 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harshithayasiru34@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+  </a>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/yassa.life">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
