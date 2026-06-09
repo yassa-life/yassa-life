@@ -45,28 +45,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassa-life&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 </p>
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshitha-yasiru/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://wa.me/940770371157">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:harshithayasiru34@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
 </br>
 
 ## 🔗 Connect with Me
