@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-<img src="
-https://capsule-render.vercel.app/apitype=blur&height=300&color=gradient&text==Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 https://capsule-render.vercel.app/apitype=blur&height=300&color=gradient&text==Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65
 
