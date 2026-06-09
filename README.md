@@ -1,4 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="
+https://capsule-render.vercel.app/apitype=blur&height=300&color=gradient&text==Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+https://capsule-render.vercel.app/apitype=blur&height=300&color=gradient&text==Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=yassa-life">
@@ -6,10 +10,13 @@
   </a>
 </p>
 
-## 📌 About Me
-- 💻 Passionate about coding, designing UIs, and building innovative digital solutions
-- 🌌 Space enthusiast | 🧠 Always learning
-- 🤝 Let's collaborate on cool projects!
+## 👨‍💻 About Me
+
+- 🎓 Cyber Security Undergraduate
+- 🔐 Passionate about Cybersecurity & Software Engineering
+- 🌌 Space Enthusiast
+- 🧠 Always Learning New Technologies
+- 🤝 Open to Collaboration and Open Source Projects
 
 
 ## 🧠 My Focus Areas
@@ -58,7 +65,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:harshithayasiru34@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/yassa.life">
   <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram" width="40" />
