@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Harshitha%20Yasiru&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%8E%93%20Cyber%20Security%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=yassa-life">
-    <img src="https://komarev.com/ghpvc/?username=yassa-life&label=Profile%20views&color=00FFFF&style=flat-square" alt="yassa-life's profile views" />
-  </a>
-</p>
 
 ## 👨‍💻 About Me
 
